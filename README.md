@@ -4,7 +4,7 @@ A personal portfolio showcasing my work, skills and experience.
 
 **Live Site**: [https://shresht-ahuja-portfolio.vercel.app](https://shresht-ahuja-portfolio.vercel.app)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **[React](https://reactjs.org/docs/getting-started.html)** – JavaScript library for building user interfaces  
 - **[Vite](https://vitejs.dev/guide/)** – Fast frontend build tool and development server  
