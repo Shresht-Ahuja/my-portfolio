@@ -7,11 +7,10 @@ export const Projects = () => {
       className="min-h-screen bg-gray-900 text-white px-6 py-26"
     >
       <RevealOnScroll>
-        <div className="max-w-5xl mx-auto px-4">
-          <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center">
-            {" "}
-            Projects
-          </h2>
+        <div className="max-w-5xl mx-auto px-4 text-center">
+          <h2 className="text-4xl md:text-5xl font-bold mb-12">
+          <span className="text-cyan-400">Projects</span>
+        </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               <h3 className="text-xl font-bold mb-2"> Arcadia</h3>
@@ -128,7 +127,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Roadmint</h3>
               <p className="text-gray-400 mb-4">
-                Training a Custom Generative Language Model for generating personalized roadmaps for any desired tech skill.
+                Training a Custom Generative Language Model for generating personalized roadmaps for any desired technical skill.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Machine Learning", "AI", "LLMs"].map((tech, key) => (

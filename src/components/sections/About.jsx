@@ -17,7 +17,11 @@ export const About = () => {
             </h3>
 
             <p className="text-gray-300 text-lg leading-relaxed">
-              I am a motivated and enthusiastic second-year Computer Science student with a broad skill set in Web Development, Machine Learning and 3D modeling.
+              I'm a second-year Computer Science student with a passion for building and experimenting across multiple tech domains — including frontend development, backend engineering, and AI/ML systems.
+              <br/><br/>
+              I love turning ideas into reality through code and design. My curiosity keeps me constantly exploring — whether it's a new library, animation technique, or building multiplayer games for fun.
+              <br/><br/>
+              As part of my extracurricular involvement, I was the speaker of a Blender Workshop and conducted a 2-hour session teaching Blender basics with 3D modeling and animation.
             </p>
           </div>
 

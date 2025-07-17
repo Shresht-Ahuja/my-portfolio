@@ -9,7 +9,7 @@ export const Education = () => {
     },
     {
       institution: "PES University",
-      course: "Higher Secondary Education (PCM)",
+      course: "B.Tech in Computer Science Engineering",
       duration: "2023 – Present",
     },
   ];

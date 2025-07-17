@@ -48,3 +48,40 @@ body {
   opacity: 1;
   transform: translateY(0);
 }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 1.2s ease-out forwards;
+  animation-delay: 0.5s;
+}
+
+@keyframes glow {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(0.9);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+}
+
+.animate-glow {
+  animation: glow 3s ease-in-out infinite;
+}
+
+.nav-hover-link:hover {
+  cursor: crosshair; /* or grab, zoom-in, etc. */
+  color: #67e8f9;     /* cyan-300 for Tailwind match */
+}
+
