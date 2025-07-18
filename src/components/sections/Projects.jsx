@@ -35,7 +35,7 @@ export const Projects = () => {
                   href="https://github.com/Shresht-Ahuja/Arcadia"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+                  View Github →
                 </a>
               </div>
             </div>
@@ -72,7 +72,7 @@ export const Projects = () => {
                   href="https://github.com/Shresht-Ahuja/Armor-Dash"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+                  View Github →
                 </a>
               </div>
             </div>
@@ -112,7 +112,7 @@ export const Projects = () => {
                   href="https://github.com/Shresht-Ahuja/WeatherApp"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+                  View Github →
                 </a>
               </div>
             </div>
@@ -150,7 +150,7 @@ export const Projects = () => {
                   href="https://github.com/Shresht-Ahuja/Roadmint"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+                  View Github →
                 </a>
               </div>
             </div>
