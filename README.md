@@ -2,7 +2,15 @@
 
 A personal portfolio showcasing my work, skills and experience.
 
-**Live Site**: [https://shresht-ahuja-portfolio.vercel.app](https://shresht-ahuja-portfolio.vercel.app)
+**Live Site**: [Visit Portfolio](https://shresht-ahuja-portfolio.vercel.app)
+
+## Sections
+
+- Home page
+- About me
+- Projects 
+- My Skills
+- My Experience
 
 ## Tech Stack
 
