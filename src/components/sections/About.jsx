@@ -25,11 +25,12 @@ export const About = () => {
           </div>
 
           {/* right */}
-          <div className="flex justify-center md:justify-end">
+          <div className="flex justify-center md:justify-end" onMouseDown="return false;">
             <img
               src={profilePic}
               alt="Shresht Ahuja"
-              className="w-100 h-100 object-cover rounded-full border-4 border-blue-500 shadow-lg"
+              className="w-100 h-100 object-cover rounded-full border-4 border-blue-500 shadow-lg pointer-events-none select-none"
+              draggable={false}
             />
           </div>
         </div>
