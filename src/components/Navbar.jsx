@@ -36,7 +36,6 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
             <a href="#projects" className="text-gray-300 hover:text-cyan-400 transition-colors duration-200 cursor-pointer">Projects</a>
             <a href="#skills" className="text-gray-300 hover:text-cyan-400 transition-colors duration-200 cursor-pointer">Skills</a>
             <a href="#experience" className="text-gray-300 hover:text-cyan-400 transition-colors duration-200 cursor-pointer">Experience</a>
-            <a href="#education" className="text-gray-300 hover:text-cyan-400 transition-colors duration-200 cursor-pointer">Education</a>
           </div>
 
           {/* Social Icons */}
