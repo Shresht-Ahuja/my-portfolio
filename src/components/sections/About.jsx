@@ -1,5 +1,5 @@
 import { RevealOnScroll } from "../RevealOnScroll";
-const profilePic = "./ma_face.jpg";
+const profilePic = "./myface.jpg";
 
 export const About = () => {
   return (
